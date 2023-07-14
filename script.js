@@ -21,5 +21,5 @@ function carregar(){
         img.src = "noite.png"
         msg.innerHTML +='<p>Boa Noite!</p>'
         window.document.body.style.background = '#513859'
-    }
+    } 
 }
