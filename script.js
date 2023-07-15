@@ -22,4 +22,4 @@ function carregar(){
         msg.innerHTML +='<p>Boa Noite!</p>'
         window.document.body.style.background = '#513859'
     } 
-}
+} 
