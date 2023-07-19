@@ -1,4 +1,4 @@
-function carregar() {
+function load() {
   let msg = window.document.querySelector("div#msg");
   let img = window.document.getElementById("imagem");
   let data = new Date();
