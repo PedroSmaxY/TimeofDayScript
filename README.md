@@ -3,12 +3,15 @@ App Shows the Time of Day
 
 Morning:
 
-![image](https://github.com/PedroSmaxY/HoraDiaJavaScript/assets/127573080/dc3bcff9-6b9e-4df6-a812-ca4aea2b51e4)
+![image](https://github.com/PedroSmaxY/TimeofDayScript/assets/127573080/4c1b5459-c7cb-43ad-9986-94010c36ccd9)
+
 
 Afternoon:
 
-![image](https://github.com/PedroSmaxY/HoraDiaJavaScript/assets/127573080/42bb4de5-f724-4b93-b21e-26fa7e2a28e9)
+![image](https://github.com/PedroSmaxY/TimeofDayScript/assets/127573080/13cad141-7001-4983-8e29-48b9df0783ac)
+
+
 
 Night/Dawn:
 
-![image](https://github.com/PedroSmaxY/HoraDiaJavaScript/assets/127573080/bd4cb803-285d-4c9f-a364-39727ed83cc8)
+![image](https://github.com/PedroSmaxY/TimeofDayScript/assets/127573080/9ce59288-20c1-4e17-8eea-1b95b91bbedc)
