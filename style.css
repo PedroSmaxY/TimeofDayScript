@@ -23,10 +23,12 @@ footer {
   text-align: center;
   font-style: italic;
 }
+
 div {
   text-align: center;
   padding: 8px;
 }
+
 img {
   border-radius: 100%;
   box-shadow: 3px 3px 10px #02020248;
