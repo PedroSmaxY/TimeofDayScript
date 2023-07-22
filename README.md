@@ -8,8 +8,7 @@ Morning:
 
 Afternoon:
 
-![image](https://github.com/PedroSmaxY/TimeofDayScript/assets/127573080/13cad141-7001-4983-8e29-48b9df0783ac)
-
+![image](https://github.com/PedroSmaxY/TimeofDayScript/assets/127573080/d0801432-f35f-40c3-a4b8-c860e7fa29c4)
 
 
 Night/Dawn:
